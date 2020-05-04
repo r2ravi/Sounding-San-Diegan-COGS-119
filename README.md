@@ -1,2 +1,2 @@
 # Sounding San Diegan
- 
+A final group project for the Fall 2018 iteration of the "Programming for Experimental Research" course (COGS 119) at UCSD. We created a MATLAB script (using the Psychophysics Toolbox) that presented audio samples from three native, American English speakers and three non-native English speakers from English-speaking countries in a randomized order. Four individuals participated in our study, and provided their ratings regarding how “San Diegan” the accents in each of the audio samples sounded. (Please see .pdf copy of paper titled "Sounding San Diegan: Speech Perception," to read up on our research abstract, the results we obtained from the study, and the conclusions drawn from these results.) 
